@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamedsk
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me IG @its_memhmd
+- 👀 I’m a software engineer
+- 🌱 JAVA oriented developer 
+- 📫 How to reach me IG @its_mimhmd
 
 <!---
 mamedsk/mamedsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
